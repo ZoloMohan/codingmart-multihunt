@@ -34,23 +34,14 @@ body {
     width: 700px;
 }
 
-.bubble,
-.bubble1,
-.bubble2 {
+.bird0,
+.bird1,
+.bird2 {
     position: absolute;
     left: 600px;
     height: 100px;
     width: 100px;
-    /*border-radius: 100%;*/
-    /*background-color: yellow;*/
     background-image: url('../img/bird.gif');
     background-repeat: no-repeat;
     background-size: 100%;
-}
-
-.pos {
-    margin-top: 100px;
-    background-color: white;
-    width: 150px;
-    height: 50px;
 }
